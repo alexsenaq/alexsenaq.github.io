@@ -1,4 +1,4 @@
 # alexsenaq.github.io
 
-Site officiel d'Alex Sénaq — Coach en productivité.
+Site officiel d'Alex Sénaq
 Aucun développement collaboratif prévu.
